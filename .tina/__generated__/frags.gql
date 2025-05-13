@@ -1,0 +1,9 @@
+fragment PageParts on Page {
+  text
+  confettiVolume
+}
+
+fragment PostParts on Post {
+  title
+  body
+}
